@@ -25,4 +25,17 @@ Welcome to **DataDrift with Us**! This repository documents our journey through 
 - Typecasting: Converting between `str`, `int`, and `float`  
 - Operators: `+`, `-`, `*`, `/`, `%`, `//`  
 - Conditional Statements: `if`, `else`, `elif`  
-- Logical Operators: `and`, `or`, `not`  
+- Logical Operators: `and`, `or`, `not`
+
+---
+
+## 📙 Day 3 - String Slicing & Loops
+
+- String Indexing and Slicing  
+- Slice Syntax: `[start:end:step]`   
+- `for` Loops  
+- `while` Loops  
+- Loop Control Statements:  
+  - `break` – exit the loop  
+  - `continue` – skip to the next iteration  
+  - `pass` – do nothing (placeholder)
