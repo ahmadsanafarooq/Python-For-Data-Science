@@ -1,4 +1,4 @@
-#  DataDrift with Us - Python Learning Journey
+# 📚 DataDrift with Us - Python Learning Journey
 
 Welcome to **DataDrift with Us**! This repository documents our journey through learning Python from the basics. Below is a summary of what we’ve covered so far.
 
@@ -39,3 +39,22 @@ Welcome to **DataDrift with Us**! This repository documents our journey through 
   - `break` – exit the loop  
   - `continue` – skip to the next iteration  
   - `pass` – do nothing (placeholder)
+
+---
+
+## 📕 Day 4 - Functions
+
+- Definition of a Function  
+- Function Syntax  
+- Calling a Function  
+- Function Parameters / Arguments  
+- Return Statement  
+- Scope and Lifetime of Variables  
+- Local and Global Variables  
+- User-defined Functions  
+- Default Arguments  
+- Keyword Arguments  
+- Variable-length Arguments: `*args` and `**kwargs`
+
+---
+
