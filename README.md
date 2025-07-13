@@ -58,3 +58,12 @@ Welcome to **DataDrift with Us**! This repository documents our journey through 
 
 ---
 
+## 📙 Day 5 - Intermediate Project: Student Management System
+
+- Creating and using multiple functions  
+- Lists and dictionaries to manage data  
+- Building a simple console-based menu  
+- User interaction through loops and input  
+- Practicing modular and reusable code  
+
+---
