@@ -67,3 +67,21 @@ Welcome to **DataDrift with Us**! This repository documents our journey through 
 - Practicing modular and reusable code  
 
 ---
+
+## 📘 Day 6 - Lists and Tuples
+
+- Introduction to Lists and Tuples  
+- List Syntax and Examples  
+- Accessing, Modifying, and Deleting Elements  
+- Common List Methods: `append()`, `insert()`, `extend()`, `remove()`, `pop()`, `sort()`, `reverse()`, `copy()`  
+- Looping through Lists  
+- List Comprehensions  
+- Tuple Syntax and Examples  
+- Tuple Immutability  
+- Tuple Methods: `count()`, `index()`  
+- List ↔ Tuple Conversion  
+- List vs Tuple Comparison  
+- Intermediate Techniques: Slicing, Unpacking, Nested Lists  
+- Practice Exercises
+
+---
