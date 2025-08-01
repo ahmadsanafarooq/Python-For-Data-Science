@@ -105,6 +105,29 @@ Welcome to **DataDrift with Us**! This repository documents our journey through 
 - Iterating through Sets using `for` loop  
 - Set Comprehensions  
 - Frozen Sets and their immutability  
-- Real-world Examples and Exercises
+- Real-world Examples and Exercises  
+
+---
+
+## 📘 Day 8 - Dictionaries in Python
+
+- Introduction to Dictionaries  
+- Key-Value Pair Structure  
+- Dictionary Syntax:  
+  - Using `{}`  
+  - Using `dict()` constructor  
+- Properties of Dictionaries:  
+  - Ordered (as of Python 3.7+)  
+  - Mutable (changeable after creation)  
+  - Keys must be unique  
+- Accessing Values using `[]` and `get()`  
+- Modifying Values and Adding New Pairs  
+- Removing Elements: `pop()`, `popitem()`, `clear()`  
+- Dictionary Methods:  
+  - `get()`, `keys()`, `values()`, `items()`  
+  - `setdefault()`, `update()`, `copy()`  
+  - `fromkeys()`  
+- Iterating through Dictionaries using `for` loops  
+- Real-life Examples and Exercises  
 
 ---
