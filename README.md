@@ -85,3 +85,26 @@ Welcome to **DataDrift with Us**! This repository documents our journey through 
 - Practice Exercises
 
 ---
+
+## 📗 Day 7 - Sets in Python
+
+- Introduction to Sets  
+- Set Syntax: Creating sets with `{}` or `set()`  
+- Properties of Sets:  
+  - Unordered  
+  - No duplicate elements  
+  - Mutable  
+- Adding Elements: `add()` and `update()`  
+- Removing Elements: `remove()`, `discard()`, and `pop()`  
+- Set Operations:  
+  - Union (`|` or `.union()`)  
+  - Intersection (`&` or `.intersection()`)  
+  - Difference (`-` or `.difference()`)  
+  - Symmetric Difference (`^` or `.symmetric_difference()`)  
+- Membership Testing: `in`, `not in`  
+- Iterating through Sets using `for` loop  
+- Set Comprehensions  
+- Frozen Sets and their immutability  
+- Real-world Examples and Exercises
+
+---
