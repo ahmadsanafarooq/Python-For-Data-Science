@@ -131,3 +131,20 @@ Welcome to **DataDrift with Us**! This repository documents our journey through 
 - Real-life Examples and Exercises  
 
 ---
+
+## 📗 Day 9 - Decorators & Object-Oriented Programming (OOP)
+
+### ✨ Decorators:
+- Functions as first-class citizens  
+- Passing functions as arguments  
+- Creating and applying custom decorators  
+- Logging function calls using `@decorator` syntax  
+
+### 🔧 Object-Oriented Programming:
+- Introduction to Classes and Objects  
+- Attributes and Methods  
+- Creating and instantiating classes  
+- Constructors using `__init__()`  
+- Simple examples like `House`, `Car`, `Dog` classes  
+- Modeling real-world entities with OOP principles  
+---
